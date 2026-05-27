@@ -50,6 +50,8 @@ This repository contains a complete sample implementation demonstrating the Trus
 
 If you prefer an automated setup flow on macOS, run `quick_setup.sh` from the repository root. It sets up the environment, generates keys, configures each service, and starts the sample applications.
 
+Note: It requires you to have uv installed on your computer.
+
 ### **Running the Sample**
 
 1. **Install Dependencies** (from root directory):
